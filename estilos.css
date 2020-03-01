@@ -65,8 +65,7 @@
 body {
   background-image: url(imagenes/Sin-título-1.gif);
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  overflow-x: hidden;
+  overflow-y: hidden;
 }
 .o-link {
   color: black;
