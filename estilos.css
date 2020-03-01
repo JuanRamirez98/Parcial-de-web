@@ -70,7 +70,7 @@ body {
 .o-link {
   color: black;
   padding-left: 1rem;
-  padding-top: 1.5rem;
+  padding-top: 1.2rem;
 }
 @media screen and (max-width: 767px) and (orientation:portrait) {
   .o-contenedor-texto {
