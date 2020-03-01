@@ -66,12 +66,13 @@ body {
   background-image: url(imagenes/Sin-título-1.gif);
   background-repeat: no-repeat;
   background-attachment: fixed;
+  overflow-x: hidden;
 }
 .o-link {
   color: black;
   padding-left: 1rem;
 }
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 767px) and (orientation:portrait) {
   .o-contenedor-texto {
     width: 30%;
   }
