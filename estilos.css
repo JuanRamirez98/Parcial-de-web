@@ -96,7 +96,4 @@ body {
     width: 30%;
   }
 }
-.o-container-final {
-  display: flex;
-  flex-direction: row;
-}
+
