@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,900&display=swap");
+.o-container-titulo {
+  font-family: Roboto;
+  margin-top: 0rem;
+  margin-right: 1rem;
+  padding: 4rem;
+  width: 700px;
+  height: 1000px;
+  font-size: 20px;
+  color: #9e9c9c;
+  font-weight: bold;
+}
+.o-encabezado {
+  font-size: 20px;
+  color: black;
+}
+
+.o-container-titulo input {
+  background: transparent;
+  border: none;
+  border-bottom: 1.5px solid gray;
+  width: 250px;
+  font-size: 20px;
+  margin-top: 0rem;
+}
+.o-container-titulo p {
+  font-size: 20px;
+}
+
+.o-boton {
+  margin-top: 2rem;
+
+  width: 200px;
+}
+.o-boton button {
+  border-radius: 10px;
+  width: 250px;
+  height: 50px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  background-color: #8407b3;
+  border: none;
+  color: #ffffff;
+}
+.o-titulo1 {
+  font-weight: bold;
+  font-size: 72px;
+  padding: 0;
+  margin: 0;
+  color: black;
+}
+.o-titulo2 {
+  font-weight: bold;
+  font-size: 72px;
+  padding: 0;
+  margin: 0;
+  color: black;
+}
+
+.o-container-gigante {
+  display: flex;
+  justify-content: space-between;
+}
+body {
+  background-image: url(imagenes/imagen-fondo.gif);
+ 
+
+}
+.o-link {
+  color: black;
+}
