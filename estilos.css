@@ -14,7 +14,7 @@
   font-size: 20px;
   color: black;
 }
-.o-contenedor-texto{
+.o-contenedor-texto {
   width: 100%;
 }
 
@@ -66,34 +66,32 @@ body {
   background-image: url(imagenes/Sin-título-1.gif);
   background-repeat: no-repeat;
   background-attachment: fixed;
-  
 }
 .o-link {
   color: black;
   padding-left: 1rem;
 }
-@media screen and (max-width:959px){
-  .o-contenedor-texto{
+@media screen and (max-width: 650px) {
+  .o-contenedor-texto {
     width: 30%;
   }
   .o-titulo1 {
     width: 30%;
-   
   }
   .o-titulo2 {
-   width: 30%;
+    width: 30%;
   }
- 
+
   .o-container-titulo input {
     width: 30%;
     height: 30%;
   }
-  .o-container-final{
-   width: 30%;
+  .o-container-final {
+    width: 30%;
   }
-
+  
 }
-.o-container-final{
+.o-container-final {
   display: flex;
   flex-direction: row;
 }
