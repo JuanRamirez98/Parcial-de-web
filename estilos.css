@@ -90,7 +90,9 @@ body {
   .o-container-final {
     width: 30%;
   }
-  
+  body{
+    width: 30%;
+  }
 }
 .o-container-final {
   display: flex;
